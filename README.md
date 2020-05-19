@@ -1,2 +1,1 @@
-# dicoding-mpwa
- Membangun Progressive Web App
+# a74-pwa
