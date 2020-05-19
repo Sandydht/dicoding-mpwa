@@ -7,11 +7,14 @@ var urlsToCache = [
   "/pages/home.html",
   "/pages/about.html",
   "/pages/contact.html",
+  "/pages/saved.html",
   "/css/materialize.min.css",
   "/js/materialize.min.js",
   "/manifest.json",
   "/js/nav.js",
   "/js/api.js",
+  "/js/idb.js",
+  "/js/db.js",
   "/icon.png"
 ];
 
